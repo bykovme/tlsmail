@@ -49,7 +49,7 @@ func main() {
 }
 ```
 
-This example can be found here: github.com/bykovme/tlsmail/example.go
+This example can be found here: [github.com/bykovme/tlsmail/example.go](https://github.com/bykovme/tlsmail/blob/master/example/example.go)
 
 Feel free to create issues or send me pull requests.
 
