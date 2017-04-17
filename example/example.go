@@ -1,11 +1,3 @@
-# tlsmail - Sending mail using SSL/TLS with Go
-
-Solution is fully compatible with UTF-8
-
-Package usage is as simple as shown below
-
-
-``` go
 package main
 
 import (
@@ -47,10 +39,3 @@ func main() {
 		log.Println("Mail sent successfully")
 	}
 }
-```
-
-This example can be found here: github.com/bykovme/tlsmail/example.go
-
-Feel free to create issues or send me pull requests.
-
-Enjoy!
