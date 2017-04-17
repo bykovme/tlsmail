@@ -54,4 +54,6 @@ This example can be found here: [github.com/bykovme/tlsmail/example.go](https://
 
 Feel free to create issues or send me pull requests.
 
+Find more cool stuff in my [blog](https://bykov.tech)
+
 Enjoy!
