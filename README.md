@@ -2,8 +2,9 @@
 
 Solution is fully compatible with UTF-8
 
-Package usage is as simple as shown below
+Install the package using `go get github.com/bykovme/tlsmail`
 
+Package usage is as simple as shown below, send mails just with one line of code :)
 
 ``` go
 package main
